@@ -1,5 +1,5 @@
 /**
- * Gset CRDT
+ * Grow-Only Set CRDT
  */
 
  class GSet {
